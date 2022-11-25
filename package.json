@@ -20,7 +20,7 @@
 		"node-telegram-bot-api": "*",
 		"nodemailer": "2.7.2",
 		"nodemailer-sendmail-transport": "*",
-		"redis": "*",
+		"redis": "^3",
 		"socket.io": "^2.1.1",
 		"time-ago": "*",
 		"2acoin-multi-hashing": "*"
